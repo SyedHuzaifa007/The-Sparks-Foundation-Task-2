@@ -12,3 +12,9 @@ This repository contains the code for task-1 given by The Sparks Foundation for 
 ###### **Librabry Used For ML**: ``` Scikit-Learn ```
 ###### **Language Used**: *Python*
 ###### **IDE Used**: *Google Collaboratory*
+---
+#### Libraries & Modules Used:
+``` Numpy ```
+``` Pandas ```
+``` Matplotlib ```
+``` Seaborn ```
