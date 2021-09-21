@@ -5,4 +5,7 @@ This repository contains the code for task-1 given by The Sparks Foundation for 
 ---
 ### Task-1
 #### Problem Statement:
-**Predict The Percentage of Student's Performance Using His/Her Number of Study Hours.**
+**Use 'Iris' Dataset To Classify Flowers With The Help of K-Means Clustering.**
+#### Problem Type:
+##### **UnSupervised Learning - K-Means Clustering**
+---
